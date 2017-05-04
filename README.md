@@ -13,3 +13,8 @@
 |header1|header2|header3|
 |:---|:---:|---:|
 |a|b|c|
+
+$$
+{\bold e}(\varphi) = \begin{pmatrix}
+\cos\varphi\\\sin\varphi\end{pmatrix}
+$$
