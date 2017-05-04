@@ -10,3 +10,6 @@
 \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)
 ```
 
+|header1|header2|header3|
+|:---|:---:|---:|
+|a|b|c|
